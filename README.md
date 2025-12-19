@@ -1,6 +1,10 @@
 # SpringStep 🏃‍♂️💨
 
-**SpringStep** is a fast-paced 2D platformer made in Unity. 
+
+**SpringStep** is a fast-paced 2D platformer made in Unity.
+
+🕹️ **[Play the Game Here!](https://play.unity.com/en/games/705ef93a-807a-4ca3-856b-73f6e2e84597/springstep)**
+
 
 ## 🎮 Controls
 - **A / D** or **Left / Right**: Move
