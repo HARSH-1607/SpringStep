@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: 59724da6021336044a20b2e5f208f7f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3924227284778434097
+    second: Base-01_0
+  - first:
+      213: 1874887372963945904
+    second: Base-01_1
+  - first:
+      213: 3948115927587391712
+    second: Base-01_2
+  - first:
+      213: -5725588911527638551
+    second: Base-01_3
+  - first:
+      213: -2718940414973329666
+    second: Base-01_4
+  - first:
+      213: -2172463736313874361
+    second: Base-01_5
+  - first:
+      213: -7670953985595583545
+    second: Base-01_6
+  - first:
+      213: -116305033050573686
+    second: Base-01_7
+  - first:
+      213: 7691701027823125891
+    second: Base-01_8
+  - first:
+      213: -2842014097813584191
+    second: Base-01_9
+  - first:
+      213: -1496272520410376707
+    second: Base-01_10
+  - first:
+      213: 8160045219647390997
+    second: Base-01_11
+  - first:
+      213: -6243194383179346977
+    second: Base-01_12
+  - first:
+      213: -2035980789902961352
+    second: Base-01_13
+  - first:
+      213: 7859028986956758064
+    second: Base-01_14
+  - first:
+      213: 551664576153709014
+    second: Base-01_15
+  - first:
+      213: -8273571515554302314
+    second: Base-01_16
+  - first:
+      213: 2319693472562707043
+    second: Base-01_17
+  - first:
+      213: -6346920053989446968
+    second: Base-01_18
+  - first:
+      213: 1217984288961262553
+    second: Base-01_19
+  - first:
+      213: 2741650096316078852
+    second: Base-01_20
+  - first:
+      213: 9085342704532255819
+    second: Base-01_21
+  - first:
+      213: -2113054711269975224
+    second: Base-01_22
+  - first:
+      213: -74516786680000584
+    second: Base-01_23
+  - first:
+      213: -5784762004805426421
+    second: Base-01_24
+  - first:
+      213: 4531706701563747485
+    second: Base-01_25
+  - first:
+      213: 3734479877659989375
+    second: Base-01_26
+  - first:
+      213: 4096217041146350717
+    second: Base-01_27
+  - first:
+      213: 2478032125117623652
+    second: Base-01_28
+  - first:
+      213: 5749519909567392684
+    second: Base-01_29
+  - first:
+      213: 7454644139848167860
+    second: Base-01_30
+  - first:
+      213: -4017124029861469692
+    second: Base-01_31
+  - first:
+      213: -7256366915005641335
+    second: Base-01_32
+  - first:
+      213: -4336581119566245258
+    second: Base-01_33
+  - first:
+      213: -4784793880564212288
+    second: Base-01_34
+  - first:
+      213: -4824716200976373178
+    second: Base-01_35
+  - first:
+      213: -7014322169558433219
+    second: Base-01_36
+  - first:
+      213: -1513877441842158255
+    second: Base-01_37
+  - first:
+      213: -8869016917307958816
+    second: Base-01_38
+  - first:
+      213: 7119383533024739269
+    second: Base-01_39
+  - first:
+      213: -4719652301384573665
+    second: Base-01_40
+  - first:
+      213: 6147401220019388557
+    second: Base-01_41
+  - first:
+      213: 21577087118746023
+    second: Base-01_42
+  - first:
+      213: 4208788575264615694
+    second: Base-01_43
+  - first:
+      213: 3135586836448200105
+    second: Base-01_44
+  - first:
+      213: -1432976413735508056
+    second: Base-01_45
+  - first:
+      213: -7006965737278993311
+    second: Base-01_46
+  - first:
+      213: -3659323262147125464
+    second: Base-01_47
+  - first:
+      213: 6626953363000951865
+    second: Base-01_48
+  - first:
+      213: -4652563347238556831
+    second: Base-01_49
+  - first:
+      213: 469293342561921959
+    second: Base-01_50
+  - first:
+      213: 1830186519328741933
+    second: Base-01_51
+  - first:
+      213: -4435826725673368966
+    second: Base-01_52
+  - first:
+      213: -7782094111515729442
+    second: Base-01_53
+  - first:
+      213: -6870444245687740745
+    second: Base-01_54
+  - first:
+      213: 77111741472469433
+    second: Base-01_55
+  - first:
+      213: -19700101744617171
+    second: Base-01_56
+  - first:
+      213: -1644077785691037541
+    second: Base-01_57
+  - first:
+      213: 3146429280096349671
+    second: Base-01_58
+  - first:
+      213: -5249656256635897205
+    second: Base-01_59
+  - first:
+      213: -5127562975274684739
+    second: Base-01_60
+  - first:
+      213: -5445198044735268253
+    second: Base-01_61
+  - first:
+      213: 9152485452174549025
+    second: Base-01_62
+  - first:
+      213: -6699065159252305155
+    second: Base-01_63
+  - first:
+      213: 2027795423294278688
+    second: Base-01_64
+  - first:
+      213: 7791650111064656121
+    second: Base-01_65
+  - first:
+      213: 1590142826768050813
+    second: Base-01_66
+  - first:
+      213: -7166688175291046560
+    second: Base-01_67
+  - first:
+      213: -4890800590056538344
+    second: Base-01_68
+  - first:
+      213: -6961963557677687833
+    second: Base-01_69
+  - first:
+      213: 8953182615985255646
+    second: Base-01_70
+  - first:
+      213: -5494794911597791391
+    second: Base-01_71
+  - first:
+      213: -1175537162032160762
+    second: Base-01_72
+  - first:
+      213: 6950719575985655797
+    second: Base-01_73
+  - first:
+      213: 8850091236449378501
+    second: Base-01_74
+  - first:
+      213: -7742433848712635690
+    second: Base-01_75
+  - first:
+      213: 7129102200008254037
+    second: Base-01_76
+  - first:
+      213: -6609851911031513576
+    second: Base-01_77
+  - first:
+      213: -5169995934343891413
+    second: Base-01_78
+  - first:
+      213: -7409120871016831238
+    second: Base-01_79
+  - first:
+      213: -6729332558515975304
+    second: Base-01_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base-01 1_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 266
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58293b5b91e19d74289abb22117d651f
+      internalID: -2112454237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 266
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f5b04259905864fb62cba57b1657d0
+      internalID: 215458932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 266
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d458807400e5941a205c17087c8f33
+      internalID: -1575477585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 266
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fac789f724b1847af6606fff22c59f
+      internalID: -1473648611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 266
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5a6d1eacc43804780d0b6cca594dbd
+      internalID: 1807536934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 266
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8307f7698b3a44ab8ae23e588c9aca
+      internalID: 60910200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 237
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a904c39b657674b830de9094a52b64
+      internalID: 548297270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 237
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b47e4397e158409b76885578489c4
+      internalID: 943624227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 237
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42214ac737ba3a54aaa5cd6ffd48bd09
+      internalID: -1880635582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 237
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5fd64d65c21ef4483d2d8d9dc8e594
+      internalID: 255505285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 237
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257668e331e210945accb94c0e795ce3
+      internalID: 245427744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 237
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430df17251ffcb4e9aa13559c99ddd6
+      internalID: 1216244338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 208
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ccf219a06719d47a346d3740ddf302
+      internalID: 286265568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 208
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd305930ede51624db46b02898f7fb63
+      internalID: -1018124743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 208
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb3e45a84db24a47841faf6d6540352
+      internalID: -1743603448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 208
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c328a283b1db8d45b3cf363ffd73961
+      internalID: -2000430561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 208
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5191b5ba0ab834d8e74a9ba37d184c
+      internalID: 471712914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 208
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642b812547177a48bee9bd2f0c5cecb
+      internalID: -817540380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 179
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8997a12baafaf49a7db9b13b46bfc1
+      internalID: -419241711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 179
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7cb9a440a063e4a8ca6c65e44f4d37
+      internalID: 1520859258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f690a5d39f011b148a8890dd5db20632
+      internalID: 175378599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 179
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c818a7ed2c916489f5b7edce3fc4ee
+      internalID: -1728098654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 179
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a6af4ca3562846bc30e90c56fc164
+      internalID: -721351743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 150
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c62440f1f8ad6419eab5c1e2841adb
+      internalID: 501724665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 150
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29294b0121dd83844aa4a0b2a4d698fb
+      internalID: -1261129274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 150
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc878560e452948b86db3c50bb46a7
+      internalID: -818617705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 150
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aea0c9bb98164499cfe44c759df82b
+      internalID: -1529772888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 150
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7f2362607d6c43b523ca3bacf8334
+      internalID: 1546420329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_28
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e4e14142d2a24d9c053c3ff159ec0
+      internalID: 1708826029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b35fe4d54b98fc41a4d0e02c8ecca97
+      internalID: 1759611380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_30
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 121
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537d9fbf8036dc84c9079b4bf0e596c7
+      internalID: -1651128790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 121
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9ca465ed79ee4b91d3ae700869251
+      internalID: 1512933441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 92
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afe50e64df70734cbbc8f88cd9f13a8
+      internalID: 1081860633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 92
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208bd06385c96f345ad90c7fe43a4eb4
+      internalID: 1055970365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 92
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e147ab62de86040a004121a1a5a10d
+      internalID: -607117554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 92
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0706379a430af14795a1cd4b16b212e
+      internalID: -557839135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 92
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcef190852741944a64d33f9aa12969
+      internalID: -1308706118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9e59bff86085d459a6394afaff1c6f
+      internalID: -2072309707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 63
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2fdac13b3da7c4d9b8e5656fc2a6d6
+      internalID: 2032313552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 63
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20797d16339547a42ae8ff16f1cbe545
+      internalID: 1373992276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_40
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b897339e83ff8f8418676deba1fe7a71
+      internalID: 238942680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634941bfd6101042a659814b11d2671
+      internalID: -1096520400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 34
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f8a541e93eb04899ffee462b4e29b
+      internalID: 440908255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_43
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 34
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f527c3117ee19c4ea389ef762933e23
+      internalID: 151539993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 34
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f5f813be15b94ba27c48d85bad52e
+      internalID: -1631310169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159204b509b186249990fa36811f390d
+      internalID: -13245976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_46
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 34
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e0ebdc95c8e84a980045ced751403
+      internalID: -1831182943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 34
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ac9aad664a9af488963a7bc4b57002
+      internalID: -1931116632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d857863f085b5244af37620c1f4a8fe
+      internalID: -603328276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95c192a9b79d84a9157c7d008c7d9d
+      internalID: 36007319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 5
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0ce31748c3814b9eafd12bd8cc183
+      internalID: -421167763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7415660eaf9f48876dcbf632ee270
+      internalID: 1452842428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb1bb63a50c9c438f1e901d5f09e3a
+      internalID: -1408878158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base-01 1_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 5
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039cc6457a7cc644a9bc325d27ca156d
+      internalID: -1903482929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c1266c124736284294d38bba73dc8ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":10.0},"gridSpriteSize":{"x":62.0,"y":29.0},"gridSpriteOffset":{"x":55.0,"y":9.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Base-01 1_0: -2112454237
+      Base-01 1_1: 215458932
+      Base-01 1_10: 245427744
+      Base-01 1_11: 1216244338
+      Base-01 1_12: 286265568
+      Base-01 1_13: -1018124743
+      Base-01 1_14: -1743603448
+      Base-01 1_15: -2000430561
+      Base-01 1_16: 471712914
+      Base-01 1_17: -817540380
+      Base-01 1_18: -419241711
+      Base-01 1_19: 1520859258
+      Base-01 1_2: -1575477585
+      Base-01 1_20: 175378599
+      Base-01 1_21: -1728098654
+      Base-01 1_22: -721351743
+      Base-01 1_23: 501724665
+      Base-01 1_24: -1261129274
+      Base-01 1_25: -818617705
+      Base-01 1_26: -1529772888
+      Base-01 1_27: 1546420329
+      Base-01 1_28: 1708826029
+      Base-01 1_29: 1759611380
+      Base-01 1_3: -1473648611
+      Base-01 1_30: -1651128790
+      Base-01 1_31: 1512933441
+      Base-01 1_32: 1081860633
+      Base-01 1_33: 1055970365
+      Base-01 1_34: -607117554
+      Base-01 1_35: -557839135
+      Base-01 1_36: -1308706118
+      Base-01 1_37: -2072309707
+      Base-01 1_38: 2032313552
+      Base-01 1_39: 1373992276
+      Base-01 1_4: 1807536934
+      Base-01 1_40: 238942680
+      Base-01 1_41: -1096520400
+      Base-01 1_42: 440908255
+      Base-01 1_43: 151539993
+      Base-01 1_44: -1631310169
+      Base-01 1_45: -13245976
+      Base-01 1_46: -1831182943
+      Base-01 1_47: -1931116632
+      Base-01 1_48: -603328276
+      Base-01 1_49: 36007319
+      Base-01 1_5: 60910200
+      Base-01 1_50: -421167763
+      Base-01 1_51: 1452842428
+      Base-01 1_52: -1408878158
+      Base-01 1_53: -1903482929
+      Base-01 1_6: 548297270
+      Base-01 1_7: 943624227
+      Base-01 1_8: -1880635582
+      Base-01 1_9: 255505285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
